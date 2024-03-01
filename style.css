@@ -6,10 +6,7 @@
 body{
     font-family: "Work Sans"
 }
-.banner-chid{
-    /* text-align: right; */
-    /* margin-right: 300px; */
-}
+
 .banner-title{
     font-size: 65px;
     font-weight: 700;
@@ -96,28 +93,15 @@ header{
     font-size: 25px;
     font-weight: 500;
 }
-.img-icon{
-    /* width: 92.958px;
-    height: 92.958px; */
-    /* flex-shrink: 0; */
-}
+
 .img-icon{
     display: flex;
     justify-content: space-around;
     margin-top: 100px;
     margin-bottom: 120px;
 }
-.Awlays-keep{
-    /* color: #FFF; */
-    /* font-size: 40px;
-    font-weight: 700;
-    height: 94px;
-    width: 459px;
-   margin-top: 200px; */
-}
-.section-02{
     
-}
+
 .grading {
     background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0.00) 100%), url('/images/watch.png');
     background-repeat: no-repeat;
